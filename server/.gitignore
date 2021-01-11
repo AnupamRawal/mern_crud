@@ -1,0 +1,8 @@
+#config file her
+config.js
+
+#env file ignore
+.env
+
+#dependencies
+/node_modules
